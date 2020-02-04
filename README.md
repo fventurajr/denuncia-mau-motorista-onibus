@@ -9,10 +9,10 @@ auto-explicativo
 * placa
 * numero
 * problema(s)
-+ [ ]freada brusca
-* [ ]aceleração brusca
-- [ ]não para no sinal
-- [ ]dirige mal
+- [ ] freada brusca
+- [ ] aceleração brusca
+- [ ] não para no sinal
+- [ ] dirige mal
 
 # Atividades
 - [ ] Pagar a taxa da loja do Google R$25
