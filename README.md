@@ -9,8 +9,8 @@ auto-explicativo
 * placa
 * numero
 * problema(s)
-- [ ]freada brusca
-- [ ]aceleração brusca
++ [ ]freada brusca
+* [ ]aceleração brusca
 - [ ]não para no sinal
 - [ ]dirige mal
 
